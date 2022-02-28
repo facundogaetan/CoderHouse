@@ -1,0 +1,15 @@
+[
+    {
+        "idEmpleado":1,
+        "nombreCompleto":"Juan Garcia"
+
+    },
+    {
+        "idEmpleado":2,
+        "nombreCompleto":"Esteban Echeverria"
+    },
+    {
+        "idEmpleado":3,
+        "nombreCompleto":"Santiago Bernabeu"
+    }
+]
